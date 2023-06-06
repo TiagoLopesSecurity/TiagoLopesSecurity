@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Lopes</h1>
 <h3 align="center">Ethical hacker and programmer</h3>
-<script src="https://tryhackme.com/badge/374716"></script>
 
 - 🌱 I’m currently learning **JavaScript,Node.js,Express.js and MongoDB**
 
